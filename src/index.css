@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Overrides  */
+
+as-category-widget {
+  width: 300px;
+}
+
+.as-panel__element {
+  max-width: none;
+}

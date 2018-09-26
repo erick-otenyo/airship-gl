@@ -1,0 +1,26 @@
+{
+	"name": "airshipgl",
+	"description": "A mapping application template using Carto Airship and Mapbox GL JS",
+	"version": "0.1.0",
+	"author": {
+		"name": "Erick Otenyo",
+		"email": "otenyo.erick@gmail.com",
+		"url": "https://edgespatial.com"
+	},
+	"private": true,
+	"dependencies": {
+		"@carto/airship-components": "^1.0.0-alpha.44",
+		"@carto/airship-style": "^1.0.0-alpha.44",
+		"mapbox-gl": "^0.49.0",
+		"react": "^16.5.2",
+		"react-dom": "^16.5.2",
+		"react-mapbox-gl": "^3.9.2",
+		"react-scripts": "1.1.5"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test --env=jsdom",
+		"eject": "react-scripts eject"
+	}
+}
