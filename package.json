@@ -12,6 +12,7 @@
 		"@carto/airship-components": "^1.0.0-alpha.44",
 		"@carto/airship-style": "^1.0.0-alpha.44",
 		"mapbox-gl": "^0.49.0",
+		"prop-types": "^15.6.2",
 		"react": "^16.5.2",
 		"react-dom": "^16.5.2",
 		"react-mapbox-gl": "^3.9.2",
