@@ -11,7 +11,7 @@ class App extends Component {
 	render() {
 		return (
 			<div className="as-app">
-				<header class="as-toolbar" />
+				<header className="as-toolbar" />
 				<div className="as-content">
 					{/* <aside className="as-sidebar as-sidebar--left" /> */}
 					<main className="as-main">
@@ -22,7 +22,7 @@ class App extends Component {
 							<div className="as-panel as-panel--top as-panel--right">
 								<div className="as-panel__element as-p--24">
 									<CategoryWidget
-										heading="Sample Cateogry"
+										heading="Sample Category"
 										description="Description"
 										categories={[]}
 										onSelectedChanged={this.onSelectedChanged}
